@@ -1,9 +1,8 @@
-<h1 align="left">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hey+there%2C+I'm+Abdulrahman" alt="Typing SVG">
-</h1>
+</p>
 
-### Technologies and Tools
-
+### Technologies and Tools:
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
@@ -15,7 +14,7 @@
 <!--     <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Lofi Studying GIF" width="200" align="right"> -->
 </p>
 
-### GitHub Stats
+### GitHub Stats:
 
 <p width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Hazem&show_icons=true&theme=graywhite&border_color=4F4F4F&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=5F9EA0" alt="Abdulrahman's GitHub Stats" height="150"/>
