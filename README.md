@@ -1,10 +1,11 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=435&lines=Hey+there%2C+I'm+Abdulrahman!" alt="Typing SVG">
+  <img src="https://i.imgur.com/WtVOjr6.gif" alt="Coding GIF" width="200" align="right">
 </p>
 
 ### Technologies and Tools:
   <p align="left">
-    <img src="https://camo.githubusercontent.com/0440e079ed14dc5d7d1a4822cd9b664d993b071900b655ddcf61b6667f153742/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966" alt="Coding GIF" width="200" align="right">
+  
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
