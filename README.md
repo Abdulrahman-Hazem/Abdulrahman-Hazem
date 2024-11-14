@@ -5,14 +5,14 @@
 ### Technologies and Tools:
   <p align="left">
     <img src="https://camo.githubusercontent.com/0440e079ed14dc5d7d1a4822cd9b664d993b071900b655ddcf61b6667f153742/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141432f706978656c732d6e656f6e2e676966" alt="Coding GIF" width="200" align="right">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-    
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> 
 </p>
 
 ### GitHub Stats:
