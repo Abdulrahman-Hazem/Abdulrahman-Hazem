@@ -17,7 +17,7 @@
 </p>
 
 ### GitHub Stats:
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Hazem&show_icons=true&theme=graywhite&border_color=4F4F4F&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=5F9EA0" alt="Abdulrahman's GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Hazem&layout=compact&theme=graywhite&border_color=4F4F4F&bg_color=00000000&title_color=00BFFF&text_color=5F9EA0" alt="Most Used Languages" height="150"/>
 </p>
