@@ -18,9 +18,3 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" /> 
 </p>
-
-### GitHub Stats:
-<p align="center">
-  <img src="./profile/stats.svg" alt="Abdulrahman's GitHub Stats" height="150"/>
-  <img src="./profile/top-langs.svg" alt="Most Used Languages" height="150"/>
-</p>
