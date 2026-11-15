@@ -20,7 +20,6 @@
 </p>
 
 ### GitHub Stats:
-### GitHub Stats:
 <p align="center">
   <img src="./profile/stats.svg" alt="Abdulrahman's GitHub Stats" height="150"/>
   <img src="./profile/top-langs.svg" alt="Most Used Languages" height="150"/>
